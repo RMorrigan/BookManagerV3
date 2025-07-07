@@ -9,7 +9,8 @@ To add a book to the table, type valid strings for title and author, valid doubl
 ![image](https://github.com/user-attachments/assets/0d231822-145a-4b9c-af80-e6f911148a06)
 
 To update a book in the table, select which book you'd like to change by clicking on it with the mouse. Then, change the values in the input panel to the desired values and select the "Update Book" button. 
-![image](https://github.com/user-attachments/assets/25c41cda-dd96-4adf-9686-c4ba9b830b9a)
+![image](https://github.com/user-attachments/assets/25c41cda-dd96-4adf-9686-c4ba9b830b9a)  
+![image](https://github.com/user-attachments/assets/f3d5f4ff-a87c-4d71-9fb2-dd0dc4abad78)
 
 To delete a book in the table, select which book you'd like to remove by clicking on it with the mouse. Then select the "Delete Book" button. Confirm that you want to delete the book. 
 ![image](https://github.com/user-attachments/assets/6db84377-ddcc-4cd6-ac41-337ce4dde300)
@@ -33,22 +34,22 @@ BookController.java
 BookView.java
 
 ## Additional Validation Screenshots
-Empty Title
-![image](https://github.com/user-attachments/assets/8bf60d83-c117-41fc-a577-e520601ca798)
+Empty Title  
+![image](https://github.com/user-attachments/assets/8bf60d83-c117-41fc-a577-e520601ca798)  
 
-Empty Author
-![image](https://github.com/user-attachments/assets/ccfbad78-d0b9-4f3f-ab21-ae13ce5dd7e7)
+Empty Author  
+![image](https://github.com/user-attachments/assets/ccfbad78-d0b9-4f3f-ab21-ae13ce5dd7e7)  
 
-Quantity >= 0
-![image](https://github.com/user-attachments/assets/d72b6ee2-0554-482f-9040-68a992e0626b)
-![image](https://github.com/user-attachments/assets/c2a39cea-68f6-4cda-b774-263a80559f73)
+Quantity >= 0  
+![image](https://github.com/user-attachments/assets/d72b6ee2-0554-482f-9040-68a992e0626b)  
+![image](https://github.com/user-attachments/assets/c2a39cea-68f6-4cda-b774-263a80559f73)  
 
-Price > 0
-![image](https://github.com/user-attachments/assets/c3c8c153-f495-477e-aae0-28e1293666a9)
-![image](https://github.com/user-attachments/assets/fb8813cd-a42f-4b10-b244-af69723b16c2)
+Price > 0  
+![image](https://github.com/user-attachments/assets/c3c8c153-f495-477e-aae0-28e1293666a9)  
+![image](https://github.com/user-attachments/assets/fb8813cd-a42f-4b10-b244-af69723b16c2)  
 
-Delete Confirmation
-![image](https://github.com/user-attachments/assets/cb54966a-ebe7-4450-ab64-34fbcf27acd2)
+Delete Confirmation  
+![image](https://github.com/user-attachments/assets/cb54966a-ebe7-4450-ab64-34fbcf27acd2)  
 
-![image](https://github.com/user-attachments/assets/f3d5f4ff-a87c-4d71-9fb2-dd0dc4abad78)
+
 
